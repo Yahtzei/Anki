@@ -1,0 +1,7 @@
+C:\Users\nick\misc. VS\KanjiMan\KanjiMan\bin\Debug\KanjiMan.exe.config
+C:\Users\nick\misc. VS\KanjiMan\KanjiMan\bin\Debug\KanjiMan.exe
+C:\Users\nick\misc. VS\KanjiMan\KanjiMan\bin\Debug\KanjiMan.pdb
+C:\Users\nick\misc. VS\KanjiMan\KanjiMan\obj\Debug\KanjiMan.csprojAssemblyReference.cache
+C:\Users\nick\misc. VS\KanjiMan\KanjiMan\obj\Debug\KanjiMan.csproj.CoreCompileInputs.cache
+C:\Users\nick\misc. VS\KanjiMan\KanjiMan\obj\Debug\KanjiMan.exe
+C:\Users\nick\misc. VS\KanjiMan\KanjiMan\obj\Debug\KanjiMan.pdb
